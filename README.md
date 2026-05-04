@@ -71,5 +71,6 @@
 ---
 
 <p align="center">
-  <sub>⚒️ Currently grinding — one commit at a time.</sub>
+  <sub>⚒️ Currently grinding — one commit at a time.</sub><br/>
+  <sub>PS: You can read more about me here → <a href="https://makaba.netlify.app/">makaba.netlify.app</a></sub>
 </p>
