@@ -18,7 +18,7 @@
 | Project | Description | Status |
 |---|---|---|
 | [ShiftFlow](https://github.com/MKabaja/SHIFTFlow) | REST API for managing employee shift schedules — replaces an Excel-based workflow for a real workplace. Laravel 12.  | ✅ Live |
-| [PrintForge](https://github.com/MKabaja/3dShop) | Fullstack e-commerce for 3D printing services. Laravel 11 + Inertia.js + React + TypeScript, Tailwind. | 🚧 In progress |
+| [Shiftflow_Frontend](https://github.com/MKabaja/shiftflow-frontend) | Frontend for  shiftflow. React + TypeScript + Tanstack Querry/Router | 🚧 In progress |
 
 ---
 
